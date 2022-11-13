@@ -89,3 +89,6 @@ Your feelings, if you have been wronged, or accused of wrongdoing, should not co
 
 # 2.10 Authorities
 Appealing to authority is a logical fallacy. Sansar elects, at will, people to enforce Sansarian law, but the law itself is yours, and the actions taken are public. If you find an authority is unjust, ask for them to be trained or removed. Nobody is the boss of you except logic and reason, and on our platform, kindness.
+
+# 5.0 New law
+everyone should be forced to say hello to each in the hub upon teleporting in
